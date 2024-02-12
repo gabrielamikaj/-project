@@ -1,0 +1,60 @@
+body {
+    background-color: #ce8420;
+    background-size: cover;
+}
+.signup{
+    margin-top: 80px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 20px 20px;
+    border-width: thick;
+}
+.signup .card-body {
+    padding: 2em;
+}
+.signup h2 {
+    margin-bottom: 1.5em;
+    color: #333;
+}
+.signup h5 {
+    color: mediumvioletred;
+}
+.buttom-submit {
+    background-color: mediumvioletred;
+    border: none;
+}
+h1{
+color: white;
+    text-align: center;
+    font-size: 100px;
+}
+h6{
+    color: mediumvioletred;
+    text-align: center;
+}
+
+.yellow{
+    text-align: center;
+}
+
+a{
+    color: blue;
+    text-align: right;
+}
+.table{
+    color: rgb(128, 128, 128);
+}
+.white {
+    color: white;
+}
+.table th {
+    color: white;
+}
+.green{
+    color: green;
+}
+.purple{
+    color: mediumvioletred;
+}
